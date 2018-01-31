@@ -11,6 +11,69 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+	<meta charset="UTF-8">
+	<title>zad-11.5</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" /> 
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+</head>
+<body>
+   <main>
+    <header>
+        <h1>Random quote machine</h1>
+    </header>
+    <div class="box">
+        <h2 class="quote"></h2>
+        <h3 class="author"></h3>
+    </div>
+    <div>
+        <button class="trigger"> Random quote </button>
+        <a href="#" target="_blank" class="tweet"><i class="fa fa-lg fa-twitter"></i> Tweet</a>
+    </div>
+</main>
+   
+	
+<script type="text/javascript" src="js/scripts.js"></script>
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+	<meta charset="UTF-8">
+	<title>zad-11.5</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" /> 
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+</head>
+<body>
+   <main>
+    <header>
+        <h1>Random quote machine</h1>
+    </header>
+    <div class="box">
+        <h2 class="quote"></h2>
+        <h3 class="author"></h3>
+    </div>
+    <div>
+        <button class="trigger"> Random quote </button>
+        <a href="#" target="_blank" class="tweet"><i class="fa fa-lg fa-twitter"></i> Tweet</a>
+    </div>
+</main>
+   
+	
+<script type="text/javascript" src="js/scripts.js"></script>
+</body>
+</html>
+
+
+
 # Header 1
 ## Header 2
 ### Header 3
